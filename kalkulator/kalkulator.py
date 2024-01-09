@@ -14,12 +14,12 @@ opsi_bagi = angka_1 / angka_2
 print('--------------------------')
 
 if option == '+':
-    print('Hasil adalah : ' + str(opsi_plus))
+    print('Hasilnya adalah : ' + str(opsi_plus))
 elif option == '-':
-    print('Hasil adalah : ' + str(opsi_min))
+    print('Hasilnya adalah : ' + str(opsi_min))
 elif option == '*':
-    print('Hasil adalah : ' + str(opsi_kali))
+    print('Hasilnya adalah : ' + str(opsi_kali))
 elif option == '/':
-    print('Hasil adalah : ' + str(opsi_bagi))
+    print('Hasilnya adalah : ' + str(opsi_bagi))
     print('dan jika dibulatkan, menjadi' + str(round(opsi_bagi)))
 print('--------------------')
