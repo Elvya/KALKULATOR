@@ -2,9 +2,9 @@ print('---KALKULATOR---')
 print('----------------')
 print('')
 
-angka_1 = int(input('masukkan angka satu :'))
+angka_1 = int(input('masukkan angka 1 :'))
 option = input('pilih opsi (+, -, *, /): ')
-angka_2 = int(input('masukkan angka dua : '))
+angka_2 = int(input('masukkan angka 2 : '))
 
 #opsi
 opsi_plus = angka_1 + angka_2
